@@ -40,6 +40,8 @@ void setup() {
 
 }
 
+//清涼一下
+
 void loop() {
   Blynk.run();
   weapon();
